@@ -1,4 +1,4 @@
-# 💻 Page of Playing Cards
+# Page of Playing Cards
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,17 +20,17 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-page-of-playing-cards&left_text=repo%20views)
 
-## ℹ️ A Poker Club Site Displaying a Set of Playing Cards
+## A Poker Club Site Displaying a Set of Playing Cards
 
 ![Screenshot of the project](./screenshot.png)
 
 A simple yet detailed web page that displays a full set of spade playing cards using semantic HTML and custom CSS styling.
 
-It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project recreates a page of playing cards using only HTML and CSS. Each card contains three distinct sections: a top-left label, a center symbol display, and a bottom-right label rotated to reflect a real deck layout.
 
@@ -38,7 +38,7 @@ The layout leverages **Flexbox** for wrapping and alignment, and uses Unicode sy
 
 ---
 
-## ✨ Features
+## Features
 
 - Custom layout for Ace through King (♠️ suit)
 - Centered Unicode symbols (♠, ♞, ♛, ♚) for realism
@@ -50,7 +50,7 @@ The layout leverages **Flexbox** for wrapping and alignment, and uses Unicode sy
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to create reusable card components with consistent structure
 - Using Flexbox to build a responsive grid layout
@@ -61,7 +61,7 @@ The layout leverages **Flexbox** for wrapping and alignment, and uses Unicode sy
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -71,23 +71,23 @@ The layout leverages **Flexbox** for wrapping and alignment, and uses Unicode sy
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://page-of-playing-cards-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://page-of-playing-cards-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
